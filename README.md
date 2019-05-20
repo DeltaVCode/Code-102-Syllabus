@@ -23,3 +23,7 @@ Below is an overview of the concepts we'll cover each day, and the relevant sect
  |                | Khan Academy sections: "Arrays", "Objects"                                              |
  | Bonus          | JavaScript: Object-Oriented Programming                                                 |
  |                | Khan Academy sections: "Object-Oriented Design"                                         |
+
+
+## Links After Class:
+  - [Code 201 Pre-work](https://github.com/DeltaVCode/code-201-prework)
