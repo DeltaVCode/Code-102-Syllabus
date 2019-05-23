@@ -7,8 +7,7 @@ Each class consists of lecture time and lab time. During lecture, we'll introduc
 Below is an overview of the concepts we'll cover each day, and the relevant sections from the tutorial.
 
 **Links:**
-  - [Day 1](https://repl.it/@dahlbyk/cr-102-201802-1)
-  - [Day 2](https://repl.it/@dahlbyk/cr-102-201802-2)
+
   - [Tutorial](https://www.khanacademy.org/computing/computer-programming/programming)
 
  | Schedule       | Content and Tutorial Sections                                                           |
